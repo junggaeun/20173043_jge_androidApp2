@@ -15,5 +15,3 @@
     - 네이버 화면
     - 전화번호 입력창 화면
     
-<img width="300" height="600" src="./png/네이버 화면.jpg"></img>
-<img width="300" height="600" src="./png/전화번호 입력창 화면.jpg"></img>
