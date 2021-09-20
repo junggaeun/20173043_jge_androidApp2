@@ -1,7 +1,7 @@
 # 캡스톤디자인 안드로이드앱프로그래밍
 
 ## 1주차
-
+<img width="500" height="500" src="./png/토끼.jpg"></img>
 ## 2주차
   - Github 사용법
   - 안드로이드앱 프로그래밍 시작
@@ -14,3 +14,6 @@
   - 3주차 과제
     - 네이버 화면
     - 전화번호 입력창 화면
+    
+<img width="300" height="600" src="./png/네이버 화면.jpg"></img>
+<img width="300" height="600" src="./png/전화번호 입력창 화면.jpg"></img>
