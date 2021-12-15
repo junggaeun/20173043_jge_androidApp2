@@ -74,8 +74,13 @@
   
 ## 기말고사
   - 기말고사 과제
+    - 이메일: jge@naver.com   비밀번호: 11111111   이름: JGE   전화번호: 01012341234
   
-  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_1.jpg"></img>
-  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_2.jpg"></img>
-  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_3.jpg"></img>
+  <img width="300" height="600" src="./png/메인.jpg"></img>
+  <img width="300" height="600" src="./png/서브1.jpg"></img>
+  <img width="300" height="600" src="./png/서브2.jpg"></img>
+  <img width="300" height="600" src="./png/서브3.jpg"></img>
+  <img width="300" height="600" src="./png/서브4.jpg"></img>
+
+
 
