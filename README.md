@@ -71,3 +71,11 @@
   <img width="1920" height="1080" src="./png/20173043정가은_13주차출석과제.jpg"></img>
   <img width="1920" height="1080" src="./png/20173043정가은_13주차출석과제1.jpg"></img>
   <img width="1920" height="1080" src="./png/20173043정가은_13주차출석과제2.jpg"></img>
+  
+## 기말고사
+  - 기말고사 과제
+  
+  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_1.jpg"></img>
+  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_2.jpg"></img>
+  <img width="300" height="600" src="./png/20173043정가은_10주차출석과제_3.jpg"></img>
+
